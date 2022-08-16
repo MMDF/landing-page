@@ -127,11 +127,11 @@ Depending upon your use of Our Site and/or our services, We may collect some or 
 * You have the right to object to our use of your personal data where we use legitimate interest as the basis of processing. You can do this by contacting us on the details in section 15.
 
 * Our legitimate interests include:
-    *  The maintenance of our IT/Data Security systems and processes;
+    *    The maintenance of our IT/Data Security systems and processes;
     *    Putting in place fraud prevention mechanisms;
     *    Keeping our records up to date;
     *    Working out which of our products and services may interest you and telling you about them (i.e. direct marketing);
-    *   Developing products and services;
+    *    Developing products and services;
     *    Being efficient about how we fulfil our legal duties;
     *    Maintaining a marketing suppression list; and
     *    Complying with laws/regulations that apply to us.
