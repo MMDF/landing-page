@@ -211,20 +211,20 @@
         <section class="bg-gradient-primary-to-secondary" id="contact">
             <div class="container px-5">
                 <h2 class="text-center text-white font-alt mb-4">Get a call now!</h2>
-                <form id="contactForm" method="post" data-netlify="true">
+                <form id="contactForm" method="post" data-netlify="true" data-netlify-recaptcha="true">
                     <!-- Name input-->
                     <div class="form-floating mb-3">
-                        <input class="form-control" id="name" type="text" placeholder="Enter your name..." required />
+                        <input class="form-control" id="name" name="name" type="text" placeholder="Enter your name..." required />
                         <label for="name">Full name</label>
                     </div>
                     <!-- Email address input-->
                     <div class="form-floating mb-3">
-                        <input class="form-control" id="email" type="email" placeholder="name@example.com" required />
+                        <input class="form-control" id="email" name="email" type="email" placeholder="name@example.com" required />
                         <label for="email">Email address</label>
                     </div>
                     <!-- Phone number input-->
                     <div class="form-floating mb-3">
-                        <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" required />
+                        <input class="form-control" id="phone" name="phone" type="tel" placeholder="(123) 456-7890" required />
                         <label for="phone">Phone number</label>
                     </div>
                     <!-- Submit Button-->
