@@ -24,11 +24,3 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-var qna= document.getElementsByClassName("qna");
-for (i in qna){
-    i.addEventListener("click", function() {
-        this.p.style.display = visible;
-        this.br.style.display = visible;
-    }
-    );
-}
