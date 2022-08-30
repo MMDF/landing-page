@@ -9,8 +9,14 @@
     background-color: #135d13;
 }
 
-.display-none{
-    
+.floating-button{
+    position: fixed;
+    bottom: 100px;
+    left: 30px;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 2px 2px 3px rgba(153, 153, 153, 0.767);
+    z-index: 100;
 }
 
 
